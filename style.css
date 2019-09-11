@@ -30,7 +30,7 @@ html, body {
   white-space: nowrap;
   overflow: hidden;
   transform: translateY(-50%);
-  color: gray;
+  color: #fff;
 }
 
 .header h1 span {
